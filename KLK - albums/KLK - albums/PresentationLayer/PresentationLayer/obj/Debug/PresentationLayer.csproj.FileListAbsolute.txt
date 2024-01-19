@@ -1,0 +1,15 @@
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb

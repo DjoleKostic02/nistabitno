@@ -1,0 +1,9 @@
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

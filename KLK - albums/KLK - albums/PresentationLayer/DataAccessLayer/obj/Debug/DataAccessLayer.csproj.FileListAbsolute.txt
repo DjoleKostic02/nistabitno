@@ -1,0 +1,6 @@
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\KOMP\Desktop\KLK - albums\PresentationLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
